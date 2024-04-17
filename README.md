@@ -4377,15 +4377,10 @@ adb reboot fastboot
 Greetings to all my esteemed colleagues who have placed their trust in me and granted me the opportunity to explore various devices. Your unwavering support is deeply appreciated, and I hold great affection for each one of you.
 
 <br>
-<p align="center">Learn with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
+<p align="center">Learn with ❤️ By Yuuya </a></p>
 
 
 # Follow Me on :
 
-[![Instagram](https://img.shields.io/badge/IG-linuxndroid-yellowgreen?style=for-the-badge&logo=instagram)](https://www.instagram.com/linuxndroid)
-
-[![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
-
-[![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.com)
-
+[![Instagram](https://img.shields.io/badge/IG-sixtynine.96-yellowgreen?style=for-the-badge&logo=instagram)](https://www.instagram.com/sixtynine.96)
 
